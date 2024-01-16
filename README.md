@@ -1,7 +1,4 @@
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Vizten18-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; justify-items: center; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vizten18&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" />
   <img src="https://github-readme-stats.vercel.app/api?username=Vizten18&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="adam-pw" />
