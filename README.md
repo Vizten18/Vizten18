@@ -1,4 +1,4 @@
-<h1 align="center">Hola, aquí Vicente 👋</h1>
+<h1 align="center">Buenas, aquí Vicente 👋</h1>
 
 <p align="center">
   <strong>Flutter Developer | Mobile Specialist | In process to be a Cloud Practitioner</strong><br/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Aqui un poco de lo que me representa como dev
 
 Soy un desarrollador móvil especializado en Flutter con experiencia en la creación de aplicaciones robustas, escalables y de alto rendimiento. Me he desempeñado tanto en entornos corporativos como en proyectos freelance, liderando implementaciones técnicas, optimizaciones, integración de APIs y arquitecturas limpias.
 
@@ -37,18 +37,15 @@ Soy un desarrollador móvil especializado en Flutter con experiencia en la creac
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/xcode-12.svg" alt="Xcode" width="40" height="40"/></a>
 </p>
 
 - CI/CD para despliegue automático
 - Firebase (Auth, Messaging, Firestore, Crashlytics)
-- GCP y AWS en integración de servicios backend y funciones cloud
 - Xcode · App Store Connect para publicación iOS
 
 ---
 
-## 📱 Experiencia Destacada
+## 📱 De donde venimos
 
 ### 📦 **Avilatek** (Ene 2023 – Jul 2025)
 - Desarrollo completo de apps móviles desde cero.
@@ -68,13 +65,13 @@ Soy un desarrollador móvil especializado en Flutter con experiencia en la creac
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- AWS Cloud Practitioner (Certificación en progreso)
+## 🌱 En las bases del aprendimiento
+- AWS Cloud Practitioner (Preparandome para la certificación)
 - Curso de node avanzado (Fernando Herrera) 75%
 
 ---
 
-## 📫 Contacto
+## 📫 Cómo encontrarme
 
 - 📧 vizten18@hotmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vicente-herrera-371175234)  
