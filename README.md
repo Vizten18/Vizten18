@@ -13,8 +13,6 @@ Soy un desarrollador móvil especializado en Flutter con experiencia en la creac
 
 ---
 
-## 🧠 Stack Técnico
-
 ### 💻 Lenguajes y Frameworks
 
 <p align="left">
@@ -30,7 +28,7 @@ Soy un desarrollador móvil especializado en Flutter con experiencia en la creac
 
 ---
 
-### 🛠️ Herramientas y DevOps
+### 🛠️ Herramientas
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
@@ -47,7 +45,7 @@ Soy un desarrollador móvil especializado en Flutter con experiencia en la creac
 
 ## 📱 De donde venimos
 
-### 📦 **Avilatek** (Ene 2023 – Jul 2025)
+### 🏔️ **Avilatek** (Ene 2023 – Jul 2025)
 - Desarrollo completo de apps móviles desde cero.
 - Arquitectura limpia, SOLID, testing avanzado.
 - Gestión del ciclo de vida de apps en producción.
