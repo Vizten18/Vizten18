@@ -36,10 +36,6 @@ I'm a mobile developer specialized in Flutter with experience building robust, s
   <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
 </p>
 
-- CI/CD for automated deployment
-- Firebase (Auth, Messaging, Firestore, Crashlytics)
-- Xcode · App Store Connect for iOS publishing
-
 ---
 
 ## 📱 Where I've been
