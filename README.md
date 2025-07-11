@@ -1,4 +1,4 @@
-<h1 align="center">Buenas, aquí Vicente 👋</h1>
+<h1 align="center">Greetings, Vicente here 👋</h1>
 
 <p align="center">
   <strong>Flutter Developer | Mobile Specialist | In process to be a Cloud Practitioner</strong><br/>
@@ -7,13 +7,13 @@
 
 ---
 
-## 🚀 Aqui un poco de lo que me representa como dev
+## 🚀 A quick look at what defines me as a dev
 
-Soy un desarrollador móvil especializado en Flutter con experiencia en la creación de aplicaciones robustas, escalables y de alto rendimiento. Me he desempeñado tanto en entornos corporativos como en proyectos freelance, liderando implementaciones técnicas, optimizaciones, integración de APIs y arquitecturas limpias.
+I'm a mobile developer specialized in Flutter with experience building robust, scalable, and high-performance applications. I've worked in both corporate teams and freelance projects, leading technical implementations, performance improvements, API integrations, and clean architectures.
 
 ---
 
-### 💻 Lenguajes y Frameworks
+### 💻 Languages & Frameworks
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
@@ -28,7 +28,7 @@ Soy un desarrollador móvil especializado en Flutter con experiencia en la creac
 
 ---
 
-### 🛠️ Herramientas
+### 🛠️ Tools
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
@@ -37,39 +37,40 @@ Soy un desarrollador móvil especializado en Flutter con experiencia en la creac
   <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
 </p>
 
-- CI/CD para despliegue automático
+- CI/CD for automated deployment
 - Firebase (Auth, Messaging, Firestore, Crashlytics)
-- Xcode · App Store Connect para publicación iOS
+- Xcode · App Store Connect for iOS publishing
 
 ---
 
-## 📱 De donde venimos
+## 📱 Where I've been
 
-### 🏔️ **Avilatek** (Ene 2023 – Jul 2025)
-- Desarrollo completo de apps móviles desde cero.
-- Arquitectura limpia, SOLID, testing avanzado.
-- Gestión del ciclo de vida de apps en producción.
-- Toma de decisiones técnicas clave y colaboración activa con UI/UX.
+### 🏔️ **Avilatek** (Jan 2023 – Jul 2025)
+- Full mobile app development from scratch.
+- Clean architecture, SOLID principles, advanced testing.
+- Full lifecycle management of production apps.
+- Key technical decision-making and collaboration with UI/UX teams.
 
-### 🏟️ **SportYeah - Digital Arena** (Feb 2025 – Abr 2025)
-- Refactorización, optimización de rendimiento y manejo de bugs críticos.
-- Configuración avanzada en Xcode y App Store Connect.
-- Integración nativa de funcionalidades complejas (Swift/Kotlin).
+### 🏟️ **SportYeah - Digital Arena** (Feb 2025 – Apr 2025)
+- Code refactoring, performance optimization, and critical bug fixing.
+- Advanced setup in Xcode and App Store Connect.
+- Native-level integration with Swift and Kotlin.
 
 ### 🧑‍💻 **Freelance** (2022 – 2023)
-- Landing pages modernas y apps a pequeña escala.
-- Desarrollo ágil orientado al cliente y al negocio.
-- Comunicación directa, documentación y entrega continua.
+- Modern landing pages and small-scale mobile apps.
+- Agile development focused on client needs and business goals.
+- Direct communication, documentation, and continuous delivery.
 
 ---
 
-## 🌱 En las bases del aprendimiento
-- AWS Cloud Practitioner (Preparandome para la certificación)
-- Curso de node avanzado (Fernando Herrera) 75%
+## 🌱 Foundations I'm building on
+
+- AWS Cloud Practitioner (Preparing for certification)
+- Advanced Node.js course (Fernando Herrera) 75% complete
 
 ---
 
-## 📫 Cómo encontrarme
+## 📫 Where to find me
 
 - 📧 vizten18@hotmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vicente-herrera-371175234)  
@@ -78,5 +79,5 @@ Soy un desarrollador móvil especializado en Flutter con experiencia en la creac
 ---
 
 <p align="center">
-🍀 Solo hay una razón para tirarse al suelo, pero hay muchas razones para levantarse.
+🍀 There may be one reason to fall, but there are many reasons to get back up.
 </p>
