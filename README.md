@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, Vicente here 👋</h1>
 
 <p align="center">
-  <strong>Flutter Developer | Mobile Specialist | In process to be a Cloud Practitioner</strong><br/>
+  <strong>Flutter Developer | Mobile Specialist | In process to be a Cloud Practitioner | initializing has a full stack developer</strong><br/>
   Caracas, Venezuela · vizten18@hotmail.com
 </p>
 
