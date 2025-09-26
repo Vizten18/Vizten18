@@ -61,13 +61,13 @@ I'm a mobile developer specialized in Flutter with experience building robust, s
 ## 🌱 Foundations I'm building on
 
 - AWS Cloud Practitioner (Preparing for certification)
-- Advanced Node.js course (Fernando Herrera) 75% complete
+- Advanced Node.js course (Fernando Herrera)
 
 ---
 
 ## 📫 Where to find me
 
-- 📧 vizten18@hotmail.com  
+- 📧 vizten18uni@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vicente-herrera-371175234)  
 - 📍 Caracas, Venezuela
 
