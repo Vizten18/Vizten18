@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Flutter Developer | Mobile Specialist | In process to be a Cloud Practitioner | initializing has a full stack developer</strong><br/>
-  Caracas, Venezuela · vizten18@hotmail.com
+  Caracas, Venezuela · vizten18uni@gmail.com
 </p>
 
 ---
