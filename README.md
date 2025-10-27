@@ -27,7 +27,7 @@ I'm a mobile developer specialized in Flutter with experience building robust, s
 
 ---
 
-###Tools
+### Tools
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
