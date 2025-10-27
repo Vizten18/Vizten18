@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 A quick look at what defines me as a dev
+##A quick look at what defines me as a dev
 
 I'm a mobile developer specialized in Flutter with experience building robust, scalable, and high-performance applications. I've worked in both corporate teams and freelance projects, leading technical implementations, performance improvements, API integrations, and clean architectures.
 
@@ -27,7 +27,7 @@ I'm a mobile developer specialized in Flutter with experience building robust, s
 
 ---
 
-### 🛠️ Tools
+###Tools
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
@@ -38,7 +38,7 @@ I'm a mobile developer specialized in Flutter with experience building robust, s
 
 ---
 
-## 📱 Where I've been
+##Where I've been
 ### ⚖️ **Quoota Capital** (Aug 2025)
 - Full mobile app development from scratch
 - Clean architecture, SOLID principles.
@@ -70,7 +70,7 @@ I'm a mobile developer specialized in Flutter with experience building robust, s
 
 ---
 
-## 📫 Where to find me
+##Where to find me
 
 - 📧 vizten18uni@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vicente-herrera-371175234)  
