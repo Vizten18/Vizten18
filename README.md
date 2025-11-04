@@ -40,10 +40,11 @@ I'm a mobile developer specialized in Flutter with experience building robust, s
 
 ## Where I've been
 ### ⚖️ **Quoota Capital** (Aug 2025)
-- Full mobile app development from scratch
-- Clean architecture, SOLID principles.
-- Full lifecycle management of production apps.
-- Leadership technical decision-making for mobile project
+- In charge of the end-to-end development of the mobile application, including architecture, business logic, and deployment.
+- Technical decision-making regarding structure, navigation, state management, and app performance.
+- Implementation of optimized UI/UX and animations, with continuous improvements to user experience and microinteractions.
+- Proposing and implementing product improvements focused on scalability and user experience.
+- Active participation in product decisions and technical roadmap, collaborating with design and business leaders.
 
 ### 🏔️ **Avilatek** (Jan 2023 – Jul 2025)
 - Full mobile app development from scratch.
