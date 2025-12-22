@@ -66,7 +66,7 @@ I'm a mobile developer specialized in Flutter with experience building robust, s
 
 ## 🌱 Foundations I'm building on
 
-- AWS Cloud Practitioner (Preparing for certification)
+- AWS Cloud Practitioner (Preparing for certification) - (PAUSED)
 - Advanced Node.js course (Fernando Herrera) - (FINISHED)
 
 ---
