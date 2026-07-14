@@ -85,7 +85,7 @@ I have worked in corporate teams, startups, and freelance projects, taking owner
 
 ---
 
-### ⚖️ **Quoota Capital** | Mobile Engineer (Aug 2025 – Present)
+### ⚖️ **Quoota Capital** | Mobile Engineer (Aug 2025 – Jul 2026)
 - End-to-end development of the mobile application, including architecture, business logic, and deployment.
 - Technical decision-making regarding app structure, navigation, state management, and performance.
 - Implementation of optimized UI/UX, animations, and microinteractions.
