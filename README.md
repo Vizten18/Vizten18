@@ -111,7 +111,10 @@ I have worked in corporate teams, startups, and freelance projects, taking owner
 ## 🌱 Professional Growth
 
 - Apple Development (SwiftUI, Architecture, Best Practices) – Ongoing
-- Advanced Node.js (Fernando Herrera) – Completed
+- Advanced Node.js ([Fernando Herrera](https://github.com/klerith)) – Completed
+- [NestJs And Microservices](https://www.udemy.com/course/nestjs-microservicios/?couponCode=KEEPLEARNING) ([Fernando Herrera](https://github.com/klerith)) – Completed
+- [Docker Mastery](https://www.udemy.com/course/docker-mastery/) ([Bret Fisher](https://github.com/bretfisher)) – Completed
+- [Complete C# Unity 2D Game Development](https://www.udemy.com/course/unitycourse/) ([Rick Davidson](https://github.com/rickdavidson)) – Completed
 - AWS Cloud Practitioner – Paused
 
 ---
